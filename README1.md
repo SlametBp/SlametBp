@@ -1,5 +1,7 @@
 # Hi there, I'm Slamet Budiprayitno - [SlametBp](https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w) 👋
 
+<h2 align='center'>I am Slamet Budiprayitno, likes to convert the ideas into code and apply for Doctoral Schools.</h2>
+
 <img align='right' src="https://github.com/SlametBp/SlametBp/blob/main/img/animate_programmer.gif" alt="Coder GIF" width="400" height="300">
 
 ## About me:

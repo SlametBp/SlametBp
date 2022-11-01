@@ -1,30 +1,34 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Slamet Budiprayitno - [SlametBp](https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🔭 I’m currently working at Department of Electrical Automation Engineering, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS), Surabaya [DTEO](https://www.its.ac.id/teo/)
+- 🌱 I’m currently learning AI, ML, DeepLearning, NLP, Bio Informatics, Big Data, IoT, Computer Vision, Automation, and Mechatronics with Python Programming
+- 👯 I’m looking to collaborate as a Researcher related to everything I'm currently working on
+- 🤔 I’m looking for advice to become a good researcher
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: slametbp1378@gmail.com
 
 ## Education:
-
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. Institut Teknologi Sepuluh Nopember | Faculty of Industrial Technology | Electrical Engineering | Master of Multimedia Smart Network / Game Technology Study Program | Surabaya 2008-2010
+- Laboratory staff / technician at Computer Control Study Program-TE/FTI/ITS
+- Thesis : Object Reconstruction from Hull Visual Based 3D Image (Computer Vision)
+#### 2. Institut Teknologi Sepuluh Nopember | Faculty of Industrial Technology | Electrical Engineering | Bachelor of Regulatory Systems Study Program | Surabaya 2000-2004
+- Laboratory staff / technician at Computer Control Study Program-TE/FTI/ITS
+- Final Project : Robust Controller Design With Neural Network (Back Propagation) For Generator Interconnection Control (System Control, AI)
+#### 3. Institut Teknologi Sepuluh Nopember | Faculty of Industrial Technology | Electrical Engineering | Diploma in Computer Control Studies Program | Surabaya 1996-1999
+- Computer Laboratory Assistant
+- Final Project : Measurement of Solution Concentration Using Light Sensor With IBM PC (Develope Spectrophotometry Tool)
+#### 5. SMAN 2 Pamekasan | IPA | Pamekasan 1993-1996
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [(DTEO) Department of Electrical Automation Engineering, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS), Surabaya](https://www.its.ac.id/teo/) | Lecturer | Surabaya `Dec'2010 - Now`
+   - Head of Basic Electrical Laboratory '2013 - 2016'
+   - Secretary of Study Program (Diploma in Electrical Engineering) '2016 - 2017'
+   - Secretary of the Department of Electrical Automation Engineering '2017 - 2019'
+   - Secretary of the Department of Electrical Automation Engineering '2019 - 2024
+   - Head of Basic Electronics Laboratory '2018 - 2020'
+   - member of Cyber Physical, Automation and Industrial Robotics Laboratory
+#### 2. [Computer Control Study Program-TE/FTI/ITS 2000 - 2010](https://portal.pln.co.id) | Staff (Honorary/Non PNS) | Surabaya `2000-2010`
+   - Laboratory Staff / Technician
 ---
 
 ### Languages and Tools:
@@ -56,4 +60,4 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/SlametBp/SlametBp

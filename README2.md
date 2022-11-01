@@ -5,7 +5,7 @@
 <h4 align='center'>I’m a Computational chemist by training, and interested Deep Learning Strategies. Currently working on AI-based molecular design strategies.</h2>
 
 
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
+<img align='right' src="https://github.com/SlametBp/SlametBp/blob/main/img/animate_programmer.gif" alt="Coder GIF" width="400" height="300">
 
 <br>
 

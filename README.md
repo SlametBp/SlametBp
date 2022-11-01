@@ -2,7 +2,7 @@
 
 <h1 align='center'> I'm Slamet Budiprayitno </h1> 
 
-<h2 align='center'>I likes to convert the ideas into code or schematics and apply for doctoral school research.</h2>
+<h2 align='center'>I likes to convert the ideas into code or schematics and would like to apply for doctoral school research.</h2>
 
 <h4 align='center'>I am a lecturer and expert in Computing automation Engineering, and interested in Machine Learning dan Deep Learning Strategies..</h4>
 

@@ -64,8 +64,13 @@
 <br />
 
 ---
-### Connect with me ☎️:
-
-
+### Connect with me ☎️:       
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w"><img src="./img/icons8-youtube-94.png"/>
+  <a href="https://www.instagram.com/slametbudiprayitno"><img src="./img/icons8-instagram-94.png"/>
+  <a href="https://www.facebook.com/slamet.budiprayitno"><img src="./img/icons8-facebook-circled-94.png"/>
+  <a href="https://twitter.com/SlametBp13"><img src="./img/icons8-twitter-circled-94.png"/>
+  <a href="https://id.linkedin.com/in/slamet-budiprayitno-011b6033"><img src="./img/icons8-linkedin-94.png"/>  
+</p>
 
 [webdev]: https://github.com/SlametBp/SlametBp

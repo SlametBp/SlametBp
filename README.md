@@ -42,7 +42,7 @@
    - Secretary of the Department of Electrical Automation Engineering '2019 - 2024
    - Head of Basic Electronics Laboratory '2018 - 2020'
    - member of Cyber Physical, Automation and Industrial Robotics Laboratory
-#### 2. [Computer Control Study Program-TE/FTI/ITS 2000 - 2010](https://portal.pln.co.id) | Staff (Honorary/Non PNS) | Surabaya `2000-2010`
+#### 2. [Computer Control Study Program-TE/FTI/ITS 2000 - 2010](http://www.ee.its.ac.id/webee/lang-in/profile/diploma3) | Staff (Honorary/Non PNS) | Surabaya `2000-2010`
    - Laboratory Staff / Technician
 
 ---

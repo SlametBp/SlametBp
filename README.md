@@ -46,9 +46,15 @@
    - Laboratory Staff / Technician
 
 ---
+### Github Stats 🚀
+<p align="center"><a href="https://github.com/SlametBp"><img src="https://github-readme-stats.vercel.app/api?username=SlametBp&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/SlametBp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlametBp&theme=radical&layout=compact"></a></p> 
 
-<img align='center' alt="SlametBp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlametBp&show_icons=true&hide_border=true" />
-
+---
+<details>
+    <summary>&#127942 <b>GitHub Awards</b>
+    <p align="center"><a href="https://github.com/SlametBp"><img src="https://github-profile-trophy.vercel.app/?username=SlametBp"></a></p>
+       
 ---
 ### Languages and Tools:
 

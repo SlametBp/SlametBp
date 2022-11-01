@@ -26,7 +26,9 @@
 
 https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w
 https://its.academia.edu/SlametBudiprayitno
-
+https://www.instagram.com/slametbudiprayitno/
+https://www.facebook.com/slamet.budiprayitno
+https://twitter.com/SlametBp13
 
 </details>
 <audio autoplay="true" src="https://c.top4top.io/m_2169adw7n0.mp3"></audio>

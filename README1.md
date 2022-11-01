@@ -1,4 +1,7 @@
 # Hi there, I'm Slamet Budiprayitno - [SlametBp](https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w) 👋
+
+<img align='right' src="https://github.com/SlametBp/SlametBp/blob/main/img/animate_programmer.gif" alt="Coder GIF" width="400" height="300">
+
 ## About me:
 - 🔭 I’m currently working at Department of Electrical Automation Engineering, Faculty of Vocational Studies, Institut Teknologi Sepuluh Nopember (ITS), Surabaya [DTEO](https://www.its.ac.id/teo/)
 - 🌱 I’m currently learning AI, ML, DeepLearning, NLP, Bio Informatics, Big Data, IoT, Computer Vision, Automation, and Mechatronics with Python Programming

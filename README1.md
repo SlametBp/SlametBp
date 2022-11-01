@@ -1,4 +1,7 @@
-# Hi there, I'm Slamet Budiprayitno - [SlametBp](https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w) 👋
+<h1 align='center'> Hi There! <img src="https://github.com/SlametBp/SlametBp/blob/main/img/giphy.gif" width="30px"> </h1>
+
+# Hi there, 👋
+# I'm Slamet Budiprayitno - [SlametBp](https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w)
 
 <h2 align='center'>I am Slamet Budiprayitno, likes to convert the ideas into code and apply for Doctoral Schools.</h2>
 

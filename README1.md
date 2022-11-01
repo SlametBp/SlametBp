@@ -47,7 +47,7 @@
 
 ---
 
-<img align='center' alt="SlametBp's Github Stats" src="https://github-readme-stats.vercel.app/api? username=SlametBp&show_icons=true&hide_border=true" />
+<img align='center' alt="SlametBp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlametBp&show_icons=true&hide_border=true" />
 
 ---
 ### Languages and Tools:

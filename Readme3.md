@@ -24,5 +24,12 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=nazedev)
 
+https://www.youtube.com/channel/UCM1YGq62Lv4b2lh5XZFWM9w
+https://its.academia.edu/SlametBudiprayitno
+
+
 </details>
 <audio autoplay="true" src="https://c.top4top.io/m_2169adw7n0.mp3"></audio>
+                                                                  
+                                                                  
+                                                                  
